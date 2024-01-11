@@ -12,9 +12,9 @@ Este projeto oferece uma solução segura para autenticação, autorização e g
 - Autorizador Cognito para proteção da API.
  
 ## Instruções Rápidas
-Configurar API REST no Amazon API Gateway.
-Criar tabela no DynamoDB para armazenamento.
-Implementar função Lambda para inserção de itens.
-Integrar API Gateway com Lambda.
-Configurar Amazon Cognito para autenticação.
-Proteger a API com autorizador Cognito.
+- Configurar API REST no Amazon API Gateway.
+- Criar tabela no DynamoDB para armazenamento.
+- Implementar função Lambda para inserção de itens.
+- Integrar API Gateway com Lambda.
+- Configurar Amazon Cognito para autenticação.
+- Proteger a API com autorizador Cognito.
